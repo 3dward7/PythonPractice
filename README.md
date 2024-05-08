@@ -1,52 +1,26 @@
-# Python Practice Repository
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s0dHIx4J)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15005006&assignment_repo_type=AssignmentRepo)
 
-Welcome to my Python practice repository! This repository contains a collection of Python scripts and projects developed as part of my school coursework. Below, you'll find information about the contents of this repository, how to navigate through it, and instructions on how to run the code.
+# Python OOP Lesson Series
 
-## Table of Contents
+## <img src="./assets/pythonImage.jpg" width="300">
 
-1. [Introduction](#introduction)
-2. [Instructions](#instructions)
-3. [Contributing](#contributing)
-4. [License](#license)
+## Lesson 1 - Setting up the project repo
 
-## Introduction
+### Road Map & Work Log
 
-This repository serves as a showcase of my Python programming skills developed during my school project. It includes various scripts, exercises, and projects completed to demonstrate proficiency in Python programming.
+- [ ] The README page (this page)
+- [ ] The .gitignore file
+- [ ] Project File Structure
+- [ ] Python venv's
+- [ ] Pygame
 
-## Instructions
+## Session Log
 
-To run the code in this repository, follow these steps:
+| Date     | Work Done     | Commit Desc.   | Version |
+| -------- | ------------- | -------------- | ------- |
+| 06.05.24 | **EDIT HERE** | initial commit | 1.0.0   |
 
-1. Clone this repository to your local machine using Git:
+### My Work
 
-    ```bash
-    git clone https://github.com/3dward7/PythonPractice
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd PythonPractice
-    ```
-
-3. Install any necessary dependencies (if any):
-
-    ```bash
-    pip install required-dependancies
-    ```
-
-4. Run the desired Python script or project using the Python interpreter:
-
-    ```bash
-    python script_name.py
-    ```
-
-## Contributing
-
-If you'd like to contribute to this repository, you're welcome to do so! Here's how you can contribute:
-
-1. Fork the repository to your GitHub account.
-2. Make your desired changes.
-3. Submit a pull request detailing the changes you've made.
-
-Your contributions are greatly appreciated!
+{Your Name Here and some Emojis :bowtie: }
